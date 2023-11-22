@@ -1,0 +1,6 @@
+addons.mozilla.org	0	19683	1732154545726,1,0
+gitlab.com	0	19683	1732154550484,1,0
+curbengh.github.io	0	19683	1732175509200,1,0
+raw.githubusercontent.com	0	19683	1732154554384,1,0
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla	0	19683	1732154551026,1,1
+firefox.settings.services.mozilla.com	0	19683	1732154547805,1,0

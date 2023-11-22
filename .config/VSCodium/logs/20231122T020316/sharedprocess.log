@@ -1,0 +1,9 @@
+2023-11-22 02:03:20.065 [info] Started initializing default profile extensions in extensions installation folder. file:///home/garuda/.vscode-oss/extensions
+2023-11-22 02:03:20.568 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/garuda/.vscode-oss/extensions
+2023-11-22 02:03:20.859 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/garuda/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/garuda/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35849)
+    at a (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35983)
+    at s.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47852)
+    at s.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:38447)
+    at async C.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20932)
+    at async Y.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:12681)

@@ -1,0 +1,5 @@
+2023-11-22 02:03:18.276 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-22 02:03:19.936 [info] Started initializing default profile extensions in extensions installation folder. file:///home/garuda/.vscode-oss/extensions
+2023-11-22 02:03:20.557 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/garuda/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/garuda/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-11-22 02:03:20.557 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/garuda/.vscode-oss/extensions
+2023-11-22 02:03:22.554 [info] [perf] Render performance baseline is 59ms
